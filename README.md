@@ -46,12 +46,17 @@ Identificar padrões e comportamentos associados à evasão de clientes (churn),
 ---
 
 📚 **Créditos**
+
 Este projeto foi realizado como parte do programa de formação em Data Science com foco em aplicações práticas reais.
+
 
 Desenvolvido por: Carolini Rufino
 
-✨ Contato
+
+✨ Contato:
+
 📧 Email: carolinirufino@gmail.com
+
 🌐 LinkedIn: linkedin.com/in/carolinirufino
 
    
