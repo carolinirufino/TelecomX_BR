@@ -40,6 +40,7 @@ Identificar padrões e comportamentos associados à evasão de clientes (churn),
 
 - **Python 3.11+**
 - **Pandas**
+- **Numpy**
 - **Plotly**
 - **Jupyter Notebook / Google Colab**
 
