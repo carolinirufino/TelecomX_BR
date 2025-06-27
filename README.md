@@ -28,6 +28,27 @@ Identificar padrões e comportamentos associados à evasão de clientes (churn),
    - Análise por variáveis categóricas (sexo, contrato, método de pagamento...).
    - Análise por variáveis numéricas (tempo de serviço, faturamento total...).
    - Gráficos interativos com Plotly para insights visuais claros.
+     
+### 🔎 Distribuição de Churn (Gráficos)
+![Distribuição de Churn](imagens/newplot.png)
+
+![Distribuição de Churn](imagens/newplot1.png)
+
+![Distribuição de Churn](imagens/newplot2.png)
+
+![Distribuição de Churn](imagens/newplot3.png)
+
+![Distribuição de Churn](imagens/newplot4.png)
+
+![Distribuição de Churn](imagens/newplot5.png)
+
+![Distribuição de Churn](imagens/newplot6.png)
+
+![Distribuição de Churn](imagens/newplot7.png)
+
+![Distribuição de Churn](imagens/newplot8.png)
+
+
 
 4. **Relatório Final:**  
    - Explicações detalhadas do processo.
